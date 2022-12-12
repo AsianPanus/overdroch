@@ -1,0 +1,33 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="height=device-height,width=device-width,initial-scale=1,viewport-fit=cover"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>OVERDROCH</title><style>* {
+          padding: 0;
+          margin: 0;
+          overflow: hidden;
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+      }
+
+      :root {
+          --sat: env(safe-area-inset-top);
+          --sar: env(safe-area-inset-right);
+          --sab: env(safe-area-inset-bottom);
+          --sal: env(safe-area-inset-left);
+      }
+
+      body {
+        display: flex;
+        background-color: black !important;
+      }
+
+      html, body {
+          height: 100%;
+      }
+
+      #app {
+        margin: auto;
+        width: 100%;
+        height: 100%;
+      }
+
+      #app canvas {
+        filter: saturate(1.2)
+      }</style></head><body><div id="app"><canvas id="view"></canvas></div><script src="bundle.edff07f2da7afa9bb6a1.js"></script></body></html>

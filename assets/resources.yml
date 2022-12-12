@@ -1,0 +1,56 @@
+atlases:
+- scale: 1
+  suffix: .gen.@3x
+  width: 4096
+  height: 4096
+resources:
+- path: images/items
+  images:
+  - bar_cup.png
+  - enterance_door_close.png
+  - enterance_door_open.png
+  - enterance_turret.png
+  - med_container.png
+  - relax_cup.png
+  - winston_cup.png
+- path: images/backgrounds
+  images:
+  - loc_bar.png
+  - loc_dungeon.png
+  - loc_entry.png
+  - loc_hall.png
+  - loc_med.png
+  - loc_med_entry.png
+  - loc_relax.png
+  - loc_winston.png
+  - mccree_dialog.png
+  - soldier_dialog.png
+  - torb_dialog.png
+- path: images/buttons
+  images:
+  - btn_arrow_down.png
+  - btn_arrow_down_inactive.png
+  - btn_arrow_left.png
+  - btn_arrow_left_inactive.png
+  - btn_arrow_right.png
+  - btn_arrow_right_inactive.png
+  - btn_arrow_up.png
+  - btn_arrow_up_inactive.png
+- path: images/characters
+  images:
+  - dva.png
+  - dva_mini.png
+  - mccree.png
+  - mcree_mini.png
+  - mercy.png
+  - mercy_mini.png
+  - soldier.png
+  - soldier_mini.png
+  - torb.png
+  - torb_mini.png
+  - tracer.png
+  - tracer_mini.png
+  - widow.png
+  - widow_mini.png
+  - winston.png
+  - winston_mini.png
