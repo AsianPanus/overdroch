@@ -4,15 +4,6 @@ atlases:
   width: 4096
   height: 4096
 resources:
-- path: images/items
-  images:
-  - bar_cup.png
-  - enterance_door_close.png
-  - enterance_door_open.png
-  - enterance_turret.png
-  - med_container.png
-  - relax_cup.png
-  - winston_cup.png
 - path: images/backgrounds
   images:
   - loc_bar.png
@@ -54,3 +45,12 @@ resources:
   - widow_mini.png
   - winston.png
   - winston_mini.png
+- path: images/items
+  images:
+  - bar_cup.png
+  - enterance_door_close.png
+  - enterance_door_open.png
+  - enterance_turret.png
+  - med_container.png
+  - relax_cup.png
+  - winston_cup.png
